@@ -1,4 +1,7 @@
-# SlashPayments generate-payment-url
+# Slash Payments generate-payment-url
+
+Original github URL : 
+https://github.com/slash-fi-public/slash-payments-minimum-merchant-api
 
 ```
 npm init -y
