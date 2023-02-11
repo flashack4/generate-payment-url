@@ -57,6 +57,11 @@ npx ts-node scripts/generate-payment-url.ts --auth 0eee78a07b89c948050168521396d
 }
 ```
 
+# Payment Request API
+
+An API that POST from your store to SlashPayment. Required.
+
+Original : https://slash-fi.gitbook.io/docs/integration-guide/apis/payment-request-api
 
 ## Python Example
 
