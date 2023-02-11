@@ -39,13 +39,13 @@ npx ts-node scripts/generate-payment-url.ts --help
     --callback, --callback_url      Custom Callback URL that will be called when the transaction’s status was changed  [string] [default: false]
     --help                          Show help  [boolean]
 
-### IN
+### IN ( Example )
 ```
 npx ts-node scripts/generate-payment-url.ts --auth 0eee78a07b89c948050168521396d833 --hash 2de7aa4926d7b1c149dd57d6ead69fc0 -o t202302112252
 ```
 -o order_code is uniquely identifed code ( need to change ).
 
-### OUT
+### OUT ( Example )
 {
   "url": "https://testnet.slash.fi/payment/dcf9cfa16994442d3fa20fa6c12f8ae0",
   "token": "dcf9cfa16994442d3fa20fa6c12f8ae0"
