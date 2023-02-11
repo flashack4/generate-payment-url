@@ -1,6 +1,6 @@
 # Slash Payments generate-payment-url
 
-Original github URL : 
+Original : 
 https://github.com/slash-fi-public/slash-payments-minimum-merchant-api
 
 ```
