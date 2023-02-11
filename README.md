@@ -82,4 +82,4 @@ python3 scripts/slash_req.py
 200
 {"url":"https:\/\/testnet.slash.fi\/payment\/77ed979cad9e1326e5cea7a8f618fa7f","token":"77ed979cad9e1326e5cea7a8f618fa7f"}
 ```
-get url
+get url( delete back slash )
